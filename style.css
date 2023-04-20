@@ -179,3 +179,46 @@ p{
 text-align: center;
 padding: 15px 0 0 0;
 }
+
+.intro h2{
+    font-family: 'Fira Sans', sans-serif;
+margin: 0 12px;
+margin: 12px;
+}
+
+.intro p{
+    font-family: 'Source Code Pro', monospace;
+    margin: 12px;
+    font-size: 18px;
+}
+
+.skillitem{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+ display: flex;
+ align-items: center;
+}
+.skill{
+    width: 265px;
+    height: 6px;
+    background-color: red;
+    border: solid;
+}
+
+.skillcontainer{
+  padding: 12px;
+}
+
+.hundred{
+    width: 265px;
+    background-color: rgb(11, 230, 230);
+}
+.fifty{
+    width: 125px;
+    background-color: rgb(144, 205, 38);
+}
+
+.t5{
+    width: 75px;
+background-color: rgb(206, 42, 42);
+}
